@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Tiago Santos
 
-<!--
-**tiagosantos-creative/tiagosantos-creative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My background is in visual communication, marketing and audiovisual design. I'm expanding my practice through programming, AI engineering and automation, exploring how software can support creative work and solve practical problems.
 
-Here are some ideas to get you started:
+## Areas of interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software development and practical applications
+- AI engineering and generative AI
+- Workflow automation and productivity tools
+- Creative coding and interactive experiences
+- Visual communication and audiovisual production
+
+## What you'll find here
+
+A collection of learning projects, technical experiments and creative tools, with an emphasis on practical applications and clear documentation.
