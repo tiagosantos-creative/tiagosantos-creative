@@ -1,11 +1,15 @@
 # Hi, I'm Tiago Santos
 
-I come from visual communication, marketing and audiovisual production,
-and found my way into code through data, building dimensional models in
-SQL Server and reports in Power BI. I moved towards software and web development, 
-where I'm currently focused on Java and JavaScript while picking up other languages along the way.
-I also work with generative AI, mostly building pipelines in ComfyUI and automation to remove the repetitive parts of creative work.
-
+I come from visual communication, marketing and audiovisual production.
+My interest in code started during multimedia product development phase, 
+where I learned HTML, CSS, PHP and SQL by building websites and small apps. 
+What began with CMS platforms gradually turned into custom web
+applications, and from there into software development more broadly, with
+Java and JavaScript as my current focus. Along the way I also got into data,
+building dimensional models in SQL Server and reports in Power BI.
+I've also trained in programming with AI systems, and I'm becoming proficient
+in AI engineering and automation, building generative pipelines in ComfyUI and 
+writing scripts that automate work in Adobe CC, Blender, among other tools.
 ## Areas of interest
 
 - Web and software development
