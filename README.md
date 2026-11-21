@@ -12,4 +12,4 @@ My background is in visual communication, marketing and audiovisual design. I'm 
 
 ## What you'll find here
 
-A collection of learning projects, technical experiments and creative tools, with an emphasis on practical applications and clear documentation.
+A collection of projects, technical experiments and creative tools, with an emphasis on practical applications and clear documentation.
